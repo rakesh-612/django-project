@@ -1,4 +1,4 @@
 # django-project
 
-Watch the project demo here:
+Reference:
 https://youtu.be/g5vFWHajutg
